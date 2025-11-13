@@ -1,6 +1,6 @@
 import java.util.Hashtable;
 
-public class FibonacciThreads implements Runnable {
+public class Threads_Hashtable implements Runnable {
 
     private static final Hashtable<Long, Long> fiboMem = new Hashtable<>();
     private final long fi;
