@@ -19,6 +19,6 @@ if __name__ == "__main__":
         print("Error:", e)
 
 """
-Eckhardt Alvarez Ian
+Eckhardt Alvarez Ian. 12/11/2025
 Cambios: solucionar error si se pone negativo como input.
 """
